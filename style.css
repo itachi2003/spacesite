@@ -1,0 +1,266 @@
+.small{
+    display:inline;
+    margin-left: 30px;
+    font-size: larger;
+    position: relative;
+    bottom: 23px;;
+    background-image:-webkit-linear-gradient(left,red,orange,rgb(85, 0, 134),pink,magenta,black);
+}
+li{
+    display: inline;
+    position: relative;
+    bottom: 20px;;
+}
+ul{
+    display: inline;
+    font-size: x-large;
+}
+#header{
+    height:  60px;
+    background-color: rgb(49, 54, 54);
+    color: whitesmoke;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right:0px;
+}
+.img{
+    width: 60px;
+    height: 60px;
+    border-radius: 10%;
+    margin-left: 120px;
+}
+.home{
+    margin-left: 40px;
+    color: rgb(204, 82, 1);
+    
+    
+}
+.about{
+    margin-left: 40px;
+    color: whitesmoke;
+}
+.project{
+    margin-left: 40px;
+    color: whitesmoke;
+}
+.blog{
+    margin-left: 40px;
+    color: whitesmoke;
+}
+.contact{
+    margin-left: 40px;
+    margin-right: 80px;
+    color: whitesmoke;
+}
+nav{
+    display: inline;
+}
+.radial-gradient{
+    height: 60px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: mediumblue;
+    background-image: -webkit-radial-gradient(white,black);
+    display: inline-block;
+    
+    
+}
+.sun{
+    height: 700px;
+    width: 100%;
+    
+}
+main{
+    width: 100%;
+    height: 700px;
+    background-image: url(photo/sun.jpg);
+    background-size: 100% 100%;
+}
+.satelite{
+    margin-left: 100px;
+    transform: scale(0.6);
+}
+.h1{
+    font-family: fantasy;
+    font-size: 70px;
+    margin-left: 600px;
+    margin-top: -300px;
+}
+.travel{
+    font-size: 40px;
+    margin-left: 600px;
+}
+.button{
+    margin-left: 605px;
+    border-style: ridge;
+   height: 50px;
+   font-family: serif;
+   font-size: 20px;
+   width: 200px;
+   background-color: black;
+   color: rgb(224, 193, 12);
+    border-radius: 40px;
+}
+    
+.section{
+    width: 800px;
+    height: 200px;
+    border-radius: 2px;
+    border-color: brown;
+    margin-left: 380px;
+    margin-top: 150px;
+   
+    
+}
+.pro{
+    font-size: 25px;
+    font-family: cursive;
+    padding-left: 250px;
+    padding-top: 5px;
+}
+.top{
+    background-color: rgb(11, 4, 114);
+    width: 800px;
+    height: 40px;
+    margin-left: -60px;
+    color: goldenrod;
+}
+.box{
+    height: 162px;
+    width: 800px;
+    background-color:  rgb(11, 4, 114);
+    position: relative;
+    right: 60px;
+    display: flex;
+}
+.art-1, .art-2, .art-3, .art-4 {
+    width: 200px;
+    height: 162px;
+}
+.mission{
+    width:100%;
+    height: 150px;
+    background: rgb(214, 18, 116);
+}
+
+.ourmission{
+    color: ivory;
+    font-family: cursive;
+    font-size: 45px;
+    text-align: center;
+}
+.general-mission{
+    font-family: monospace;
+    font-size: 25px;
+    text-align: center;
+    color: lemonchiffon;
+    padding-top: 30px;
+}
+
+.featured{
+    font-size: 28px;
+    color: seashell;
+    font-family: sans-serif;
+    padding-left: 230px;
+    padding-top: 30px;
+}
+.videoo{
+    padding-left: 130px;
+    padding-bottom: 80px;
+   transform: scale(1.2);
+  
+}
+.describe-blog{
+    font-size: 32px;
+    color: seashell;
+    font-family: sans-serif;
+ 
+}
+.video-describe{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(0, 0, 0);
+    
+}
+.blogggggg{
+    font-size: 28px;
+    color: rgb(172, 76, 7);
+    font-family: Impact;
+   display: flex;
+   margin-left: 900px;
+   margin-top: -25px;
+}
+.sateeelite{
+    width:90px;
+    height: 90px;
+    margin-left: 90px;
+    margin-bottom: 190px;
+}
+.one{
+    margin-left: 900px;
+   margin-top: 30px;
+    color: rgb(224, 193, 12);
+    font-size: 25px;
+}
+.onee{
+    margin-left: 900px;
+   margin-top: 40px;
+    color: rgb(224, 193, 12);
+    font-size: 18px;
+}
+.buttonn{
+    margin-left: 900px;
+    border-style: ridge;
+   height: 35px;
+   font-family: serif;
+   font-size: 20px;
+   width: 150px;
+   background-color: black;
+   color: rgb(224, 193, 12);
+    border-radius: 40px;
+    position:relative;
+    bottom: 250px;
+}
+.foo{
+    width: 100%;
+    height: 60px;
+    background-color: indigo;
+    display: flex;
+}
+.foooo{
+    font-size: 25px;
+    color: lightyellow;
+    text-align: center;
+    padding-top: 17px;
+    padding-left: 500px;
+}
+.ter{
+    width: auto;
+    height: 40px;
+    background-color: linen;
+}
+.me{
+    font-size: 17px;
+    font-family: fantasy;
+    color: navy;
+    text-align: center;
+    padding-top: 10px;
+}
+.facebook{
+    transform: scale(0.8);
+    text-align: right;
+    padding-left: 80px;
+}
+.instagram{
+    transform: scale(0.8);
+    text-align: right;
+    padding-left: 1px;
+}
+.twitter{
+    transform: scale(0.8);
+    text-align: right;
+    margin-right: 50px;
+}
+
+

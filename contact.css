@@ -1,0 +1,174 @@
+.small{
+    display:inline;
+    margin-left: 30px;
+    font-size: larger;
+    position: relative;
+    bottom: 23px;;
+    background-image:-webkit-linear-gradient(left,red,orange,rgb(85, 0, 134),pink,magenta,black);
+}
+li{
+    display: inline;
+    position: relative;
+    bottom: 20px;;
+}
+ul{
+    display: inline;
+    font-size: x-large;
+}
+#header{
+    height:  60px;
+    background-color: rgb(49, 54, 54);
+    color: whitesmoke;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right:0px;
+}
+.img{
+    width: 60px;
+    height: 60px;
+    border-radius: 40%;
+    margin-left: 120px;
+}
+.home{
+    margin-left: 40px;
+    color: whitesmoke;
+    
+    
+}
+.about{
+    margin-left: 40px;
+    color: whitesmoke;
+}
+.project{
+    margin-left: 40px;
+    color: whitesmoke;
+}
+.blog{
+    color: whitesmoke;
+    margin-left: 40px;
+}
+.contact{
+    margin-left: 40px;
+    margin-right: 80px;
+    color: rgb(204, 82, 1);
+}
+nav{
+    display: inline;
+}
+.radial-gradient{
+    height: 60px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: mediumblue;
+    background-image: -webkit-radial-gradient(white,black);
+    display: inline-block;
+    
+    
+}
+
+.mainn2{
+    width: 100%;
+    height: 900px;
+    background: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.foo{
+    width: 100%;
+    height: 60px;
+    background-color: indigo;
+    display: flex;
+}
+.foooo{
+    font-size: 25px;
+    color: lightyellow;
+    text-align: center;
+    padding-top: 17px;
+    padding-left: 500px;
+}
+.ter{
+    width: auto;
+    height: 40px;
+    background-color: linen;
+}
+.me{
+    font-size: 17px;
+    font-family: fantasy;
+    color: navy;
+    text-align: center;
+    padding-top: 10px;
+}
+.facebook{
+    transform: scale(0.8);
+    text-align: right;
+    padding-left: 80px;
+}
+.instagram{
+    transform: scale(0.8);
+    text-align: right;
+    padding-left: 1px;
+}
+.twitter{
+    transform: scale(0.8);
+    text-align: right;
+    margin-right: 50px;
+}
+
+
